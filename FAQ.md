@@ -1,6 +1,6 @@
 # FAQ
 
-## ¿Porqué Gulp? o ¿Porqué no otro?
+## ¿Por qué Gulp? o ¿Por qué no otro?
 
 Mira la [presentación introductoria] para un resumen de cómo se originó gulp.
 
@@ -22,7 +22,7 @@ Pregúntate:
 
 1. ¿Está mi plugin haciendo algo que puede que otros plugins necesiten hacer también?
   - Si es así, considera llevar esa funcionalidad a otro plugin. [Comprueba si aún no existe en npm][npm plugin search].
-1. ¿Esta mi plugin haciendo dos cosas, completamente diferentes, dependiendo de alguna opción configurable?
+1. ¿Está mi plugin haciendo dos cosas, completamente diferentes, dependiendo de alguna opción configurable?
   - Si es así, podría servir mejor a la comunidad si lo separas en dos plugins diferentes.
   - Si las dos funciones son diferentes, pero se relacionan, probablemente esté bien.
 
